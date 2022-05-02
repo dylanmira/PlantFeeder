@@ -14,11 +14,11 @@ was dying because of all the times I forgot to water it.
 9. .1uF and a .33 uF Capacitor
 10. 20 kΩ, 530Ω, and a 120Ω resistors
 
-##Schematic
+## Schematic
 ![Schematic](sch.png)
 ![PCB Layout](footprint.png)
 
-##Source Code Usage
+## Source Code Usage
 - Code is written for **Mbed OS 2** in the online Mbed IDE
 - Requires `mbed.h` and `rtos.h`
 - RGB LED light color meaning -
@@ -29,5 +29,5 @@ was dying because of all the times I forgot to water it.
 - Code utilizes built-in pin definitions for the on-board LEDs, these will need to be changed for other microcontrollers
 - Soil mositure value for detrmining soil dryness is hardcoded to 2.2V on the ADC input (this can change depending on soil/plant conditions)
 
-##Media
+## Media
 
