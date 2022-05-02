@@ -5,7 +5,7 @@ was dying because of all the times I forgot to water it.
 ## Bill of Materials
 1. [mBed](https://www.sparkfun.com/products/9564)
 2. [Capacitive Soil Moisture Sensor](https://www.amazon.com/Gikfun-Capacitive-Corrosion-Resistant-Detection/dp/B07H3P1NRM/ref=asc_df_B07H3P1NRM/?tag=hyprod-20&linkCode=df0&hvadid=278878233965&hvpos=&hvnetw=g&hvrand=8564046167453132646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015254&hvtargid=pla-524998080120&psc=1)
-3. [12V 240L/H, 3.6W Submersible Water Pump] (https://www.amazon.com/LEDGLE-Submersible-Ultra-Quiet-Dual-Purpose-Hydroponics/dp/B085NQ5VVJ/ref=asc_df_B085NQ5VVJ/?tag=&linkCode=df0&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=9662284882248460044&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015254&hvtargid=pla-896669534049&ref=&adgrpid=96812686551&th=1)
+3. [12V 240L/H, 3.6W Submersible Water Pump](https://www.amazon.com/LEDGLE-Submersible-Ultra-Quiet-Dual-Purpose-Hydroponics/dp/B085NQ5VVJ/ref=asc_df_B085NQ5VVJ/?tag=&linkCode=df0&hvadid=416723245886&hvpos=&hvnetw=g&hvrand=9662284882248460044&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015254&hvtargid=pla-896669534049&ref=&adgrpid=96812686551&th=1)
 4. [RGB LED](https://www.sparkfun.com/products/105)
 5. [5V Relay](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g6dn.pdf)
 6. [NPN Transistor](https://www.farnell.com/datasheets/1789499.pdf)
