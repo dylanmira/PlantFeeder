@@ -23,10 +23,11 @@ was dying because of all the times I forgot to water it.
 - Requires `mbed.h` and `rtos.h`
 - RGB LED light color meaning -
 
-| **LED State** | **Meaning** |
-| Blinking blue | Soil is dry, the pump runs for 2 seconds and waits till the next sample |
-| Blinking white | Soil is moist, waits for 100 seconds |
-| Solid red | Waiting for 30 minutes to sample again |
+  | **LED State** | **Meaning** |
+  | ------------- | ----------------- |
+  | Blinking blue | Soil is dry, the pump runs for 2 seconds and waits till the next sample |
+  | Blinking white | Soil is moist, waits for 100 seconds |
+  | Solid red | Waiting for 30 minutes to sample again |
 
 - Code utilizes built-in pin definitions for the on-board LEDs, these will need to be changed for other microcontrollers
 - Soil mositure value for detrmining soil dryness is hardcoded to 2.2V on the ADC input (this can change depending on soil/plant conditions)
