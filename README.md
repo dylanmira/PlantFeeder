@@ -33,4 +33,5 @@ was dying because of all the times I forgot to water it.
 - Soil mositure value for detrmining soil dryness is hardcoded to 2.2V on the ADC input (this can change depending on soil/plant conditions)
 
 ## Media
+[Video/Images Link](https://drive.google.com/drive/folders/1Zwr_aD2PnQRxRFwUMXWZRCFDWVlhIk40?usp=sharing)
 
